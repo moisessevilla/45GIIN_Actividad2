@@ -1,0 +1,62 @@
+[
+    {
+        "id_medico": 101,
+        "nombre": "Dr. Carlos López",
+        "especialidad": "Cardiología",
+        "correo": "carlos.lopez@hospital.com"
+    },
+    {
+        "id_medico": 102,
+        "nombre": "Dra. Ana Fernández",
+        "especialidad": "Dermatología",
+        "correo": "ana.fernandez@hospital.com"
+    },
+    {
+        "id_medico": 103,
+        "nombre": "Dr. José Pérez",
+        "especialidad": "Neurología",
+        "correo": "jose.perez@hospital.com"
+    },
+    {
+        "id_medico": 104,
+        "nombre": "Dra. Laura Martínez",
+        "especialidad": "Oftalmología",
+        "correo": "laura.martinez@hospital.com"
+    },
+    {
+        "id_medico": 105,
+        "nombre": "Dr. Miguel Gómez",
+        "especialidad": "Pediatría",
+        "correo": "miguel.gomez@hospital.com"
+    },
+    {
+        "id_medico": 106,
+        "nombre": "Dra. Sofía Rodríguez",
+        "especialidad": "Ginecología",
+        "correo": "sofia.rodriguez@hospital.com"
+    },
+    {
+        "id_medico": 107,
+        "nombre": "Dr. Pablo Hernández",
+        "especialidad": "Psiquiatría",
+        "correo": "pablo.hernandez@hospital.com"
+    },
+    {
+        "id_medico": 108,
+        "nombre": "Dra. Elena Castro",
+        "especialidad": "Reumatología",
+        "correo": "elena.castro@hospital.com"
+    },
+    {
+        "id_medico": 109,
+        "nombre": "Dr. Álvaro Ruiz",
+        "especialidad": "Endocrinología",
+        "correo": "alvaro.ruiz@hospital.com"
+    },
+    {
+        "id_medico": 110,
+        "nombre": "Dra. María Moreno",
+        "especialidad": "Oncología",
+        "correo": "maria.moreno@hospital.com"
+    }
+]

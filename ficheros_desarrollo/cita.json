@@ -1,0 +1,92 @@
+[
+    {
+        "id_cita": 1,
+        "id_paciente": 1,
+        "id_medico": 101,
+        "fecha": "2024-01-15",
+        "hora": "09:00:00",
+        "especialidad": "Cardiología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 2,
+        "id_paciente": 2,
+        "id_medico": 102,
+        "fecha": "2024-01-15",
+        "hora": "10:00:00",
+        "especialidad": "Dermatología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 3,
+        "id_paciente": 3,
+        "id_medico": 103,
+        "fecha": "2024-01-15",
+        "hora": "11:00:00",
+        "especialidad": "Neurología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 4,
+        "id_paciente": 4,
+        "id_medico": 104,
+        "fecha": "2024-01-15",
+        "hora": "13:00:00",
+        "especialidad": "Oftalmología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 5,
+        "id_paciente": 5,
+        "id_medico": 105,
+        "fecha": "2024-01-15",
+        "hora": "14:00:00",
+        "especialidad": "Pediatría",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 6,
+        "id_paciente": 6,
+        "id_medico": 106,
+        "fecha": "2024-01-15",
+        "hora": "15:00:00",
+        "especialidad": "Ginecología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 7,
+        "id_paciente": 7,
+        "id_medico": 107,
+        "fecha": "2024-01-16",
+        "hora": "09:00:00",
+        "especialidad": "Psiquiatría",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 8,
+        "id_paciente": 8,
+        "id_medico": 108,
+        "fecha": "2024-01-16",
+        "hora": "10:00:00",
+        "especialidad": "Reumatología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 9,
+        "id_paciente": 9,
+        "id_medico": 109,
+        "fecha": "2024-01-16",
+        "hora": "11:00:00",
+        "especialidad": "Endocrinología",
+        "estado": "confirmada"
+    },
+    {
+        "id_cita": 10,
+        "id_paciente": 10,
+        "id_medico": 110,
+        "fecha": "2024-01-16",
+        "hora": "13:00:00",
+        "especialidad": "Oncología",
+        "estado": "confirmada');"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id_paciente": 1,
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "email": "juan.perez@example.com",
+        "telefono": "123456789",
+        "contrasena": "segura123"
+    },
+    {
+        "id_paciente": 2,
+        "nombre": "María",
+        "apellido": "Gómez",
+        "email": "maria.gomez@example.com",
+        "telefono": "987654321",
+        "contrasena": "password456"
+    },
+    {
+        "id_paciente": 3,
+        "nombre": "Carlos",
+        "apellido": "Hernández",
+        "email": "carlos.hernandez@example.com",
+        "telefono": "555666777",
+        "contrasena": "qwerty789"
+    },
+    {
+        "id_paciente": 4,
+        "nombre": "Ana",
+        "apellido": "López",
+        "email": "ana.lopez@example.com",
+        "telefono": "111222333",
+        "contrasena": "abc123"
+    },
+    {
+        "id_paciente": 5,
+        "nombre": "Luis",
+        "apellido": "Martínez",
+        "email": "luis.martinez@example.com",
+        "telefono": "444555666",
+        "contrasena": "contraseña"
+    },
+    {
+        "id_paciente": 6,
+        "nombre": "Sofía",
+        "apellido": "Rodríguez",
+        "email": "sofia.rodriguez@example.com",
+        "telefono": "777888999",
+        "contrasena": "segura456"
+    },
+    {
+        "id_paciente": 7,
+        "nombre": "Miguel",
+        "apellido": "García",
+        "email": "miguel.garcia@example.com",
+        "telefono": "333444555",
+        "contrasena": "clave123"
+    },
+    {
+        "id_paciente": 8,
+        "nombre": "Laura",
+        "apellido": "Moreno",
+        "email": "laura.moreno@example.com",
+        "telefono": "888999000",
+        "contrasena": "pass456"
+    },
+    {
+        "id_paciente": 9,
+        "nombre": "Pedro",
+        "apellido": "Ruiz",
+        "email": "pedro.ruiz@example.com",
+        "telefono": "666777888",
+        "contrasena": "123seguro"
+    },
+    {
+        "id_paciente": 10,
+        "nombre": "Elena",
+        "apellido": "Castro",
+        "email": "elena.castro@example.com",
+        "telefono": "999000111",
+        "contrasena": "elena123"
+    }
+]
