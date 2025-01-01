@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultorio</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #menu {
+            height: 100; /* Menú ocupa el 100 pixeles */
+            background-color: #f8f9fa; /* Color de fondo claro */
+            border-bottom: 1px solid #ccc;
+        }
+        #content {
+            height: 100%; /* Contenido ocupa el 100% del iframe de alto */
+            width: 100%; /* Contenido ocupa el 100% del iframe de ancho */
+            border: none; /* Sin bordes en el iframe */
+        }
+        .menu-button {
+            display: inline-block;
+            padding: 10px 50px;
+            text-decoration: none;
+            color: #007bff;
+            font-size: 16px;
+            border-right: 10px solid #ccc;
+        }
+        .menu-button:hover {
+            /* background-color: #e9ecef; */
+            background-color:rgb(215, 225, 235);
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <a class="menu-button" href="/citas/paciente/" target="content-frame">Gestión de Pacientes</a>
+        <a class="menu-button" href="/citas/agendar/" target="content-frame">Agendar Cita</a>
+        <a class="menu-button" href="/citas/disponibilidad/" target="content-frame">Disponibilidad de Horarios</a>
+        <a class="menu-button" href="/citas/gestionarcita/" target="content-frame">Gestionar Citas</a>
+        <a class="menu-button" href="/admin/" target="content-frame">Administración</a>
+    </div>
+    <iframe id="content" name="content-frame" src="/citas/paciente/"></iframe>
+</body>
+</html>
