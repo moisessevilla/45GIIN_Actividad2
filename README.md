@@ -28,3 +28,33 @@ la utilizada en la sesión práctica.
 diagramas y la especificación de los casos de uso correspondientes.
 ● El archivo deberá contar con una portada donde se identifique al estudiante, la
 actividad y la asignatura.
+
+**************************************************** 
+
+45GIIN - Actividad 3
+
+Actividad Práctica III
+Temática:
+● Desarrollo del frontend de una aplicación web
+Consigna:
+Sobre el mismo escenario de desarrollo de un sistema de información de la Actividad
+Práctica I y II se van a ejecutar las siguientes actividades:
+1. Desarrollar una UI relacionada con el backend desarrollado en la Actividad Práctica
+II.
+2. Implementar la conexión de esa UI con los servicios de backend correspondientes
+para la gestión de la información en cuestión. Al menos se deberá implementar lo
+correspondiente a los tres (3) casos de uso que fueron especificados en las
+actividades previas.
+3. Realizar pruebas y documentarlas utilizando alguna de las herramientas
+disponibles a tal efecto.
+Consideraciones:
+● El desarrollo de la presente Actividad Práctica es individual.
+● El plazo para la presentación de la misma está definido en la Guía Docente de la
+asignatura.
+● El desarrollo de los diagramas podrá ser realizado en cualquier lenguaje y strack
+tecnológico (que permita implementar este tipo de producto) a elección más allá de
+la utilizada en la sesión práctica.
+● La modalidad de presentación será a través de un archivo PDF conteniendo ambos
+diagramas y la especificación de los casos de uso correspondientes.
+● El archivo deberá contar con una portada donde se identifique al estudiante, la
+actividad y la asignatura.
